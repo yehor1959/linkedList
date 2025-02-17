@@ -114,4 +114,19 @@ public class LinkedList {
 
         return temp;
     }
+
+    public Node removeFirst() {
+        if (length == 0) return null;
+
+        Node temp = head;
+        head = head.next;
+        temp.next = null;
+        length--;
+
+        if (length == 0) {
+            tail = null;
+        }
+
+        return temp;
+    }
 }

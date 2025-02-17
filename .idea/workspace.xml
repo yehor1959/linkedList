@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a98313f-3ea4-43b4-a91e-9d34473d4bc7" name="Changes" comment="Add method removeLast to the LinkedList">
+    <list default="true" id="0a98313f-3ea4-43b4-a91e-9d34473d4bc7" name="Changes" comment="Add method prepend to the LinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LinkedList.java" afterDir="false" />
     </list>
@@ -32,12 +32,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/komputer/IdeaProjects/2024/algoblog"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="linkedList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1739572467145</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add method prepend to the LinkedList">
+      <created>1739646926016</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1739646926016</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +114,7 @@
     <MESSAGE value="Add constructor to a LinkedList" />
     <MESSAGE value="Add method append to the LinkedList" />
     <MESSAGE value="Add method removeLast to the LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add method removeLast to the LinkedList" />
+    <MESSAGE value="Add method prepend to the LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add method prepend to the LinkedList" />
   </component>
 </project>
