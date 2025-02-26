@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a98313f-3ea4-43b4-a91e-9d34473d4bc7" name="Changes" comment="Add method remove to the LinkedList">
+    <list default="true" id="0a98313f-3ea4-43b4-a91e-9d34473d4bc7" name="Changes" comment="Add method Reverse to the LinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -130,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1740509056022</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add method Reverse to the LinkedList">
+      <created>1740513162111</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740513162111</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Add method Reverse to the LinkedList">
+      <created>1740513173099</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740513173099</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +168,7 @@
     <MESSAGE value="Add method set to the LinkedList" />
     <MESSAGE value="Add method insert to the LinkedList" />
     <MESSAGE value="Add method remove to the LinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add method remove to the LinkedList" />
+    <MESSAGE value="Add method Reverse to the LinkedList" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add method Reverse to the LinkedList" />
   </component>
 </project>
